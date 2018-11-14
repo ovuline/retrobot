@@ -7,7 +7,7 @@
     "retro",
     "retrospective"
   ],
-  "repository": "https://github.com/remy/retrobot",
+  "repository": "https://github.com/ovuline/retrobot",
   "logo": "https://github.com/remy/retrobot/raw/master/icon.png",
   "env": {
     "SLACK_TOKEN": {
